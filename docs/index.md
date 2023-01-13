@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# 前言
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+在我初入大学之时有幸看到了[CS自学指南](https://csdiy.wiki/)，这一份指南对计科的自学生涯做了全方位梳理，我从中也受益匪浅。
 
-## Commands
+但我是一个充满好奇心的人，对很多学科都有一定的兴趣。我渐渐不再满足于计科的知识，对数学以及经济学产生了兴趣，也希望在这些学科上获得像CS自学指南这样一套完整的自学资源。但是我发现计算机这方面的梳理很多，其他专业的却少之又少，并且零零散散。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+除了我自己的这种比较特殊的需求外，自学的需求也是非常普遍的。很多大学的课程都存在很多问题，比如教的内容十分老旧，老师上课没有激情，只是照着念ppt……跟着老师的课程走学到的东西十分有限，甚至有些老师会让你开始讨厌一个学科，而错过了它原本的魅力。除了老师上课的问题，许多学校选用的教材也无法展现一门学科的本质与魅力，这一点名牌大学和普通大学的差距尤其地大。像很多高校使用或者模仿的同济版线性代数教材，就让人学过线性代数后还是一头雾水。而比如听说T大就将*An Introduction to Linear Algebra*这本书选作他们的线性代数教材，这一教材才是真正能够揭示线性代数本质的教材。所以一本好的教材对于自学来说也是尤为关键。所以我也希望大家能够把自己所阅读过的好的教材分享出来。
 
-## Project layout
+并且我也发现许多经典的教材是没有配套的答案的，这对自学者来说也是十分不友好的。所以如果有人在学习的过程中，找到了某一教材的电子档答案，或者是自己在自学的过程中做出了部分的习题，也欢迎把过程与答案在下面的问卷中分享出来。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+所以在这样的情况下，我产生了做这个大学自学指南的想法。大家在自学的过程中，如果发现有特别好的，让你体会到这门课程本质和趣味的视频课程或教材，或是你身处名校，有名师的讲义或课件，或是你在课上做了详尽的笔记，想要和大家分享出来，造福更多自学的人，请填写[问卷](https://www.wenjuan.com/s/UZBZJvD8uRo/)进行资源的推荐与分享。
+
+谢谢大家！若有任何问题，欢迎发送邮件到3382551245@qq.com与我讨论。
