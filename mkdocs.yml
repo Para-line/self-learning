@@ -16,3 +16,13 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+nav:
+  - 前言: "index.md"
+  - 基础课程:
+    - 微积分: "基础课程/微积分.md"
+    - 线性代数: "基础课程/线性代数.md"
+    - 大学物理: "基础课程/大学物理.md"
+    - 电路原理: "基础课程/电路原理.md"
+    - 工程制图: "基础课程/工程制图.md"
+
